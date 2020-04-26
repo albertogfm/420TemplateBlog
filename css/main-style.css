@@ -108,7 +108,7 @@ body.fixed{
 	height: 100%;
 }
 a{
-	color: #dc2430;
+	color: #387d00;
 }
 /*end of part 1----------------------------------------------------*/
 
@@ -125,9 +125,9 @@ a{
 	top: 0;
 	font-size: 14px;
 	height: 60px;
-	background: #7b4397; 
-	background: -webkit-linear-gradient(to right, #dc2430, #7b4397); 
-	background: linear-gradient(to right, #dc2430, #7b4397);
+	background: #0d8f34; 
+	background: -webkit-linear-gradient(to right, #39e300, #0d8f34); 
+	background: linear-gradient(to right, #39e300, #0d8f34);
 
 	-webkit-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.2);
 	-moz-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.2);
@@ -152,7 +152,7 @@ a{
 	float: left;
 }
 .logo-box{
-	width: 122px;
+	width: 200px;
 	height: 27px;
 	display: block;
 	float: left;
@@ -164,10 +164,10 @@ a{
 	display: inline-block;
 }
 .logo{
-	width: 122px;
-	height: 27px;
+	width: 200px;
+	height: 55px;
 	display: block;
-	background-image: url(../img/logo.png);
+	background-image: url("logo.png");
 }
 .header-menu{
 	display: inline-block;
@@ -382,7 +382,7 @@ a{
 .sidebar-logo a{
 	width: 122px;
 	height: 27px;
-	background-image: url(../img/logo-mono.png);
+	background-image: url("img/logo-mono.png");
 	display: inline-block;
 	margin: 16px 24px;
 	float: left;
